@@ -1,1 +1,1 @@
-# craftspeed
+# MemoMesh - Collaborative note-taking tool
